@@ -44,15 +44,16 @@ Clone this repository to your local machine.
 Replace the dataset path in the code with the appropriate file path if necessary.
 Execute the code using Jupyter Notebook or your preferred Python development environment.
 
-[1.	numpy Documentation]([url](https://numpy.org/doc/))  
-[2.	pandas Documentation](url)  
-[3.	matplotlib Documentation](url)  
-[4.	seaborn Documentation](url)  
-[5.	scikit-learn Documentation](url)  
+[1.	numpy Documentation]([https://numpy.org/doc/])  
+[2.	pandas Documentation](https://pandas.pydata.org/docs/)  
+[3.	matplotlib Documentation](https://matplotlib.org/stable/contents.html)  
+[4.	seaborn Documentation](https://seaborn.pydata.org/api.html)  
+[5.	scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
   
-Additional Resources  
-[•	Scikit-learn SVM Documentation](url)  
-[•	Seaborn Pairplot Documentation](url)  
+**Additional Resources:  **
+
+[•	Scikit-learn SVM Documentation](https://scikit-learn.org/stable/modules/svm.html#svm)  
+[•	Seaborn Pairplot Documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)  
 
 
 
