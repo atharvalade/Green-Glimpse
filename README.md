@@ -50,7 +50,7 @@ Execute the code using Jupyter Notebook or your preferred Python development env
 [4.	seaborn Documentation](https://seaborn.pydata.org/api.html)  
 [5.	scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)  
   
-**Additional Resources:  **
+**Additional Resources:**  
 
 [•	Scikit-learn SVM Documentation](https://scikit-learn.org/stable/modules/svm.html#svm)  
 [•	Seaborn Pairplot Documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)  
