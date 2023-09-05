@@ -12,13 +12,13 @@ Python: The project is written in Python, a versatile and widely-used programmin
 
 Libraries:
 
-numpy: Used for numerical operations and data manipulation.
-pandas: Utilized for data handling and analysis using DataFrames.
-matplotlib: Employed for creating data visualizations and plots.
-seaborn: Used for enhanced data visualization with Seaborn's pairplot function.
-scikit-learn: Leveraged for machine learning tasks, particularly SVM model creation and evaluation.
-Machine Learning: The core focus of the project is on machine learning techniques, specifically the use of Support Vector Machines (SVM) for classification tasks.
-Data: The project utilizes a dataset from the file 'Electric_Vehicle_Population_Data.csv' to train and evaluate the SVM model. Data preprocessing and analysis are performed to prepare the dataset for model training.
+- numpy: Used for numerical operations and data manipulation.  
+- pandas: Utilized for data handling and analysis using DataFrames.  
+- matplotlib: Employed for creating data visualizations and plots.  
+- seaborn: Used for enhanced data visualization with Seaborn's pairplot function.  
+- scikit-learn: Leveraged for machine learning tasks, particularly SVM model creation and evaluation.  
+- Machine Learning: The core focus of the project is on machine learning techniques, specifically the use of Support Vector Machines (SVM) for classification tasks.  
+- Data: The project utilizes a dataset from the file 'Electric_Vehicle_Population_Data.csv' to train and evaluate the SVM model. Data preprocessing and analysis are performed to prepare the dataset for model training.  
 
 Project Objectives:
 
