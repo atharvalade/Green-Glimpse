@@ -9,7 +9,9 @@ This GitHub repository contains a machine learning project that focuses on train
 **Technologies and Tools Used**
 
 Python: The project is written in Python, a versatile and widely-used programming language for data science and machine learning.
+
 Libraries:
+
 numpy: Used for numerical operations and data manipulation.
 pandas: Utilized for data handling and analysis using DataFrames.
 matplotlib: Employed for creating data visualizations and plots.
