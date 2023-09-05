@@ -44,7 +44,7 @@ Clone this repository to your local machine.
 Replace the dataset path in the code with the appropriate file path if necessary.
 Execute the code using Jupyter Notebook or your preferred Python development environment.
 
-[1.	numpy Documentation]([https://numpy.org/doc/])  
+[1.	numpy Documentation](https://numpy.org/doc/)  
 [2.	pandas Documentation](https://pandas.pydata.org/docs/)  
 [3.	matplotlib Documentation](https://matplotlib.org/stable/contents.html)  
 [4.	seaborn Documentation](https://seaborn.pydata.org/api.html)  
